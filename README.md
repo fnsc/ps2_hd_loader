@@ -15,7 +15,8 @@ O HDLoader pode ser gravado com diversos programas de gravação. Neste tutorial
 4. Agora vá em SETTINGS > DEVICE SETTINGS e selecione o drive do seu gravador. Depois basta clicar em WRITE para iniciar a gravação.
 
 5. Confirme a gravação com OK e aguarde até o final do processo.
-Tela de entrada
+
+## Tela de entrada
 
 Para iniciar o HDLoader basta inserir o disco no PS2. Toda vez que ele for iniciado será apresentada a tela de entrada.
 
@@ -27,13 +28,13 @@ O disco rígido conectado ao seu PS2 precisa ser formatado antes de ser utilizad
 
 Formatação em progresso.. Por favor aguarde.
 
-Licença do software
+## Licença do software
 
 Na primeira vez que for utilizado o HDLoader vai exibir a tela de licença do software.
 
 Licença do software Você só precisa confirmar com YES uma vez.
 
-Tela principal
+## Tela principal
 
 Ao lado da tela principal estão localizados os controles Play, Install, Remove e Rename.
 
@@ -41,7 +42,7 @@ Lista de jogos. No momento não existem jogos instalados no disco rígido Esta �
 
 Esta é a tela principal mostrada quando existem jogos instalados.
 
-Instalação
+## Instalação
 
 Para instalar um novo jogo comece selecionando Install na tela principal.
 
